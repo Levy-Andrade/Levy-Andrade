@@ -31,7 +31,7 @@ Desenvolvedor focado em construir aplicações web completas e eficientes. Combi
 <div align="center">
 
 ### 🛠️ Tecnologias & Ferramentas
-</div>
+
 <br>
 
 | Camada | Stack / Badges |
