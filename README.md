@@ -10,10 +10,6 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=DESENVOLVEDOR+FULLSTACK;CO-FUNDADOR+DA+ZYNTEK;FOCO+EM+JAVA+E+JAVASCRIPT" alt="Typing SVG" />
 
-
-
-  <img src="assets/LOGO FUNDO.png" alt="Zyntek Logo" width="180px" style="filter: drop-shadow(0px 4px 12px rgba(122,162,247,0.3));" onerror="this.src='https://img.shields.io/badge/ZYNTEK-Software%20House-7AA2F7?style=for-the-badge&logo=rocket&logoColor=white'" />
-
 ### 🚀 Sobre Mim
 
 Desenvolvedor focado em construir aplicações web completas e eficientes. Combino a robustez do ecossistema Java no backend com a flexibilidade do JavaScript no frontend para transformar regras de negócio em sistemas funcionais, seguros e de alto impacto.
