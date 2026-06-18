@@ -6,9 +6,14 @@
   <img src="assets/Levy de Andrade da Silva Desenvolvedor Full Stack Co-fundador da Zyntek Java  Spring Boot  JavaScript MySQL Transformando ideias em soluções de alto impacto..png" alt="Capa do Perfil" width="100%" style="border-radius: 12px; box-shadow: 0px 8px 32px rgba(0,0,0,0.4);" />
 </div>
 
-  <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=DESENVOLVEDOR+FULLSTACK;CO-FUNDADOR+DA+ZYNTEK;FOCO+EM+JAVA+E+JAVASCRIPT" alt="Typing SVG" />
+<br>
+  <!-- Estatísticas Dinâmicas -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Levy-Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levy-Andrade&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
+
+</div>
 
 ### 🚀 Sobre Mim
 
