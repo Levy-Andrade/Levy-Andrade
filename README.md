@@ -3,7 +3,7 @@
 # Muito prazer, sou Levy Andrade! 
 
 <div align="center">
-  <video src="assets/VIDEO.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 12px; box-shadow: 0px 8px 32px rgba(0,0,0,0.4);"></video>
+  <img src="assets/Levy de Andrade da Silva Desenvolvedor Full Stack Co-fundador da Zyntek Java  Spring Boot  JavaScript MySQL Transformando ideias em soluções de alto impacto..png" alt="Capa do Perfil" width="100%" style="border-radius: 12px; box-shadow: 0px 8px 32px rgba(0,0,0,0.4);" />
 </div>
 
   <br>
