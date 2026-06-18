@@ -3,7 +3,8 @@
 # Muito prazer, sou Levy Andrade! 
 
 <div align="center">
-  <video src="assets/VIDEO.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"></video>
+  <video src="assets/VIDEO.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 12px; box-shadow: 0px 8px 32px rgba(0,0,0,0.4);"></video>
+</div>
 
   <br>
   
