@@ -15,18 +15,23 @@
 
 </div>
 
+<div align="center">
+
 ### 🚀 Sobre Mim
 
 Desenvolvedor focado em construir aplicações web completas e eficientes. Combino a robustez do ecossistema Java no backend com a flexibilidade do JavaScript no frontend para transformar regras de negócio em sistemas funcionais, seguros e de alto impacto.
+
+</div>
 
 * 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 * 🛠️ Especialista no ecossistema **Java (Spring Boot)** e com sólida experiência em **JavaScript**.
 * 🎨 Apaixonado por UI/UX, utilizando o **Figma** para prototipar interfaces intuitivas e modernas antes de transformá-las em código.
 
 ---
+<div align="center">
 
 ### 🛠️ Tecnologias & Ferramentas
-
+</div>
 <br>
 
 | Camada | Stack / Badges |
@@ -41,6 +46,7 @@ Desenvolvedor focado em construir aplicações web completas e eficientes. Combi
 
 ---
 
+<div align="center">
 ### 🎯 Projetos em Destaque
 
 #### 📊 [Zynk Finance Dashboard](https://zynk-finance-dashboard.vercel.app/)
